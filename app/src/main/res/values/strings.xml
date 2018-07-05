@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="insert_text_search">Insira o nome do filme que deseja buscar</string>
+    <string name="search_title">Nome do filme</string>
+    <string name="no_connection">Não há conexão de internet</string>
+    <string name="error">Erro</string>
+    <string name="ok">Ok</string>
+    <string name="generical_error">Algo de errado aconteceu 😔</string>
+    <string name="movies_not_found">Nenhum filme encontrado. 😔</string>
+    <string name="lorem">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</string>
+    <string name="released_in">Lançamento: </string>
+    <string name="imdb_note">Nota no imdb: </string>
+    <string name="production">Produtora:</string>
+    <string name="plot">Sinopse: </string>
+    <string name="director">Diretor: </string>
+    <string name="actors">Elenco: </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="get_movie_name">Busque pelo nome do filme</string>
+    <string name="my_movies">Meus Filmes</string>
+    <string name="my_movies_app">MyMovieApp</string>
+    <string name="search_movies">Busca</string>
+    <string name="tuto">Vá na aba buscar e escolha seus filmes favoritos!! 😃😃😃</string>
+</resources>
